@@ -106,9 +106,4 @@ this to your victims.😈
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.imgur.com/9u8nNbD.png"></img>
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.imgur.com/6GO5CB4.png"></img>
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.imgur.com/4DNCiAJ.png"></img>
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.imgur.com/s5f4HVs.png"></img>
 </div>
-
-### Star Graph
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Smug246/Luna-Grabber&type=Date)]
